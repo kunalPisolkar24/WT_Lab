@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employees.xsd">
+    <employee id="1">
+        <name>John Doe</name>
+        <position>Software Engineer</position>
+        <department>IT</department>
+    </employee>
+    <employee id="2">
+        <name>Jane Smith</name>
+        <position>HR Manager</position>
+        <department>Human Resources</department>
+    </employee>
+    <employee id="3">
+        <name>Emily Johnson</name>
+        <position>Marketing Specialist</position>
+        <department>Marketing</department>
+    </employee>
+    <employee id="4">
+        <name>Michael Brown</name>
+        <position>Product Manager</position>
+        <department>Product</department>
+    </employee>
+    <employee id="5">
+        <name>Sarah Davis</name>
+        <position>Data Analyst</position>
+        <department>Data</department>
+    </employee>
+</employees>
+
